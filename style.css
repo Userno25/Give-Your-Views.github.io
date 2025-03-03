@@ -12,7 +12,7 @@ body {
 }
 
 .section h2 {
-    color: #007bff;
+    color: red;
     border-bottom: 2px solid #007bff;
     display: inline-block;
     padding-bottom: 5px;
